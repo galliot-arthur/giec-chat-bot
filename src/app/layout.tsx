@@ -6,7 +6,7 @@ const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "AskGiec",
-  description: "AskGiec by EY Fabernovel, demander le programme.",
+  description: "AskGiec by EY Fabernovel",
 };
 
 export default function RootLayout({
